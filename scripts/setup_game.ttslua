@@ -124,16 +124,16 @@ playerFigureSettings = {
         figurepad_offset = {x = -0.8, z = -0.5},
         use_snap_points = true,
         save_figurepad_location = true,
-        object_params = {type = 'Custom_model', scale = {0.5, 0.5, 0.5}}, --scale should probably be closer to {0.5, 0.42, 0.5}
-        custom_object_params = {type = 1, material = 1, specular_intensity = 0.05, mesh = 'http://cloud-3.steamusercontent.com/ugc/1014939826507591169/C0DEE154BE5ADF17CFAF511C414DA1E5D3791660/', diffuse = 'http://cloud-3.steamusercontent.com/ugc/1014939826507578447/525851AB9D9905C66770E742F1F7280B44A44BC5/'}
+        object_params = {type = 'Custom_model', scale = {1.25, 1.25, 1.25}}, --scale should probably be closer to {0.5, 0.42, 0.5}
+        custom_object_params = {type = 1, material = 1, specular_intensity = 0.05, mesh = 'http://cloud-3.steamusercontent.com/ugc/155773601379964516/39142B17D65D9A9EA7175C2DDA61B52BF6FEE730/', diffuse = 'http://cloud-3.steamusercontent.com/ugc/1014939826507578447/525851AB9D9905C66770E742F1F7280B44A44BC5/'}
     },
     ['TnBPig'] = {
         name = 'Pig',
         figurepad_offset = {x = -2.25, z = 0.5},
         use_snap_points = true,
         save_figurepad_location = true,
-        object_params = {type = 'Custom_model', scale = {0.5, 0.5, 0.5}}, --scale should probably be closer to {0.45, 0.5, 0.5}
-        custom_object_params = {type = 1, material = 1, specular_intensity = 0.05, mesh = 'http://cloud-3.steamusercontent.com/ugc/1014939826507588043/7AA65D186BEC7616D7D8896C104CE3927B572C8A/', diffuse = 'http://cloud-3.steamusercontent.com/ugc/1014939826507578447/525851AB9D9905C66770E742F1F7280B44A44BC5/'}
+        object_params = {type = 'Custom_model', scale = {0.13, 0.13, 0.13}}, --scale should probably be closer to {0.45, 0.5, 0.5}
+        custom_object_params = {type = 1, material = 1, specular_intensity = 0.05, mesh = 'http://cloud-3.steamusercontent.com/ugc/1831281470488170911/9A48105993CF34348DCBB138FDCE3DBB421890B8/', diffuse = 'http://cloud-3.steamusercontent.com/ugc/1014939826507578447/525851AB9D9905C66770E742F1F7280B44A44BC5/'}
     },
     ['AnMMayor'] = {
         name = 'Mayor',
